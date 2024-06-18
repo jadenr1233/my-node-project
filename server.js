@@ -2,17 +2,17 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs');
 const path = require('path');
-const cors = require('cors'); // Import cors
+const cors = require('cors');
 
 const app = express();
-const port = process.env.PORT || 3002;
+const port = process.env.PORT || 10000;
 
 app.use(bodyParser.json());
 app.use(express.static('public'));
 
-// Allow CORS from your Webflow domain and localhost for testing
+// Allow CORS from your Webflow domain
 app.use(cors({
-    origin: ['https://basedev.webflow.io', 'http://localhost:3002']
+    origin: 'https://basedev.webflow.io'
 }));
 
 const pointsFilePath = path.join(__dirname, 'points.json');
