@@ -1,0 +1,14 @@
+{
+  "name": "interactive-map-project",
+  "version": "1.0.0",
+  "description": "Interactive Map with Editable Points",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}

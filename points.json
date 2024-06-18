@@ -1,0 +1,410 @@
+[
+  {
+    "lat": 37.79016,
+    "lng": -122.39754,
+    "description": "6sense (a B2B predictive intelligence engine for marketing and sales.)",
+    "id": "ee2dc8b1-cfbb-4fc0-8482-4a61bc0d81f6"
+  },
+  {
+    "lat": 37.79673,
+    "lng": -122.403412,
+    "description": "AngelList (a platform for startups to meet investors, talent and incubators.)",
+    "id": "d62c7ce2-ba30-4020-93d8-0892a1abf4b9"
+  },
+  {
+    "lat": 37.76379,
+    "lng": -122.41681,
+    "description": "Aptible (automates HIPAA compliance for web and mobile technology companies.)",
+    "id": "d7f6dd73-f3ff-4dcc-936c-620d8e9c3617"
+  },
+  {
+    "lat": 37.7922044,
+    "lng": -122.4347054,
+    "description": "Buffer (helps you build an audience organically.)",
+    "id": "733a4a47-e9f7-4945-bed4-19671d7dc074"
+  },
+  {
+    "lat": 34.0901946,
+    "lng": -117.8810168,
+    "description": "InDinero (helps small businesses manage their finances with accounting and tax services.)",
+    "id": "74e4da52-c6a2-4c54-8dbe-d2ed3af9c7d0"
+  },
+  {
+    "lat": 37.8064359,
+    "lng": -122.2681608,
+    "description": "Mayvenn (empowers stylists and salons to retail products without them having to purchase or manage any inventory. Mayvenn is creating a direct sales distribution channel based on the existing stylist/customer relationship, lower prices, and better experience.)",
+    "id": "dab5f358-c7fc-4bb0-b73d-44be37cb5099"
+  },
+  {
+    "lat": 36.1659116,
+    "lng": -115.1391452,
+    "description": "Pigeonly (builds solution driven technology products for underserved communities.)",
+    "id": "ceed0d2d-5f5f-4892-93c4-f7eb05cde37b"
+  },
+  {
+    "lat": 37.7700199,
+    "lng": -122.4075579,
+    "description": "Rinse (removing all the pain and friction that comes with clothing care — dry cleaning, laundry, peace of mind.)",
+    "id": "99e49ac7-a25a-47ac-962b-7bbeb2085bcf"
+  },
+  {
+    "lat": 37.7790351,
+    "lng": -122.4030519,
+    "description": "StyleSeat (building the marketplace technology platform to transform the massive $400B+ global beauty and wellness industry; think Uber for transportation and OpenTable for restaurant reservations, but for haircuts and related services.)",
+    "id": "6907f9c3-1f9c-4e2a-abf3-09f8670809cd"
+  },
+  {
+    "lat": 33.9222284,
+    "lng": -118.3272687,
+    "description": "SurfAir (is a Los Angeles-based electric aviation and air travel company expanding the category of regional air travel and reinventing flying through the power of electrification.)",
+    "id": "cb31c424-ee3a-4f79-98b5-0f7dbdf8bf7f"
+  },
+  {
+    "lat": 37.7647758,
+    "lng": -122.4320492,
+    "description": "TravelJoy (helps travel agents provide their clients with a modern and digital trip planning experience, along with support and tools to save time and stay organized while running their business.)",
+    "id": "4113b7ea-fbd8-4ca7-b5ad-bf1cc7ba2e60"
+  },
+  {
+    "lat": 33.9905107,
+    "lng": -118.440138,
+    "description": "Genies (Custom 3D Avatars for consumers and celebrities.)",
+    "id": "befc6ffe-1c85-457c-955c-c6bd0212598f"
+  },
+  {
+    "lat": 37.3823171,
+    "lng": -122.0064253,
+    "description": "Aispire (unlock the full potential of your data, wherever it resides.)",
+    "id": "6ebbf819-7028-4283-9ec6-3c556629b127"
+  },
+  {
+    "lat": 37.772821,
+    "lng": -122.402134,
+    "description": "Apozy (Instant security for GSuite Users through a proxy-less secure web gateway. G Suite customers use Apozy's proxy-less secure web gateway to safeguard their companies against dangerous sites.)",
+    "id": "bddc88dc-480c-4f4e-ab4c-81661e04f550"
+  },
+  {
+    "lat": 37.7864679,
+    "lng": -122.4066292,
+    "description": "Harness.io (commercializes Spinnaker, an open source, multi-cloud continuous delivery platform for quickly releasing software.)",
+    "id": "1cf85d48-357d-4ecc-bbb4-48cb887bd746"
+  },
+  {
+    "lat": 37.8804968,
+    "lng": -122.5257111,
+    "description": "Avochato (Software company providing a messaging communication platform for sales, support and operations teams. Through reliable, easy-to-use text messaging software, Avochato enables companies of all kinds to communicate with staff, customers and prospects seamlessly. Avochato integrates with thousands of platforms via Zapier and features custom integrations with Salesforce, Microsoft Office, and Slack.)",
+    "id": "5c920242-4b10-4b1b-976b-88ded1c2160f"
+  },
+  {
+    "lat": 34.0480901,
+    "lng": -118.2335286,
+    "description": "Blavity (Media, Travel, Conferences aimed at black millennials)",
+    "id": "c76b27d2-36e9-4f57-b9d3-8c32b45d2c24"
+  },
+  {
+    "lat": 37.771944,
+    "lng": -122.408133,
+    "description": "Cafe X (Robotic cafés that serve single-origin coffee from specialty roasters.)",
+    "id": "a7093de8-3d23-47dd-9b51-ad504eff7f08"
+  },
+  {
+    "lat": 37.7647758,
+    "lng": -122.4320492,
+    "description": "Confident Cannabis (bringing transparency to legal cannabis through technology. It is the biggest real-time database of legal cannabis in the world and offers free software to cannabis testing labs. By using the database and testing, producers will be able to communicate their quality and sell more at a higher price. Confident Cannabis enables retailers to rate their supply to make better purchasing decisions and helps consumers understand product ingredients so they can buy with confidence.)",
+    "id": "5a61d626-6d82-4881-b6ac-60054020957d"
+  },
+  {
+    "lat": 40.7213756,
+    "lng": -74.0020289,
+    "description": "Dirty Lemon (the first consumer brand in the world to sell products exclusively via text message.)",
+    "id": "46d21712-8565-47ec-ba74-fe064e262ee4"
+  },
+  {
+    "lat": 37.7633211,
+    "lng": -122.4347425,
+    "description": "EarnUp (consumer-first fintech platform that intelligently automates loan payments for the 200 million Americans with debt. Earnup puts a few dollars aside for loans when you can afford it - then we makes loan payments for you, allocating funds in the way that gets you out of debt faster.)",
+    "id": "8003ed55-2317-4ab6-8ac7-20da6cbb2463"
+  },
+  {
+    "lat": 37.659770597189045,
+    "lng": -121.80541992187501,
+    "description": "FleetPanda (FleetPanda makes your business operationally smooth to run. Honest prices. Unconditional support. No surprises.)",
+    "id": "be40f460-3c2e-4f7a-a718-2160b61c224e"
+  },
+  {
+    "id": "be40f460-3c2e-4f7a-a718-2160b61c224e1",
+    "lat": 40.7232979,
+    "lng": -74.001113,
+    "description": "Frank Darling (Unique engagement rings custom designed for you, for free in our NYC studio, with sustainably sourced materials, conflict-free and lab grown diamonds.)"
+  },
+  {
+    "id": "af28d993-0de6-4a37-b054-d476bb072953",
+    "lat": 40.4506906,
+    "lng": -80.0049669,
+    "description": "Gecko Robotics (is helping the world’s most important organizations ensure the availability, reliability, and sustainability of critical infrastructure.)"
+  },
+  {
+    "id": "385bd15b-0bac-4ace-98f1-8039aef6b5e6",
+    "lat": 38.5722163,
+    "lng": -121.5075513,
+    "description": "Grin (The #1 end-to-end influencer marketing management solution designed for eCommerce.)"
+  },
+  {
+    "id": "01ccd539-cbf3-4688-a5e5-52df60b1c6f6",
+    "lat": 37.7824185,
+    "lng": -122.2406333,
+    "description": "Ink Labs (is the developer of the Ink Smart Station, a printing solution that offers students the ability to print, share, and send files from anywhere, anytime.) "
+  },
+  {
+    "id": "219c04d5-47a3-432b-94a3-092e1a4b8e03",
+    "lat": 34.1054551,
+    "lng": -118.3312086,
+    "description": "Jumpcut (creates captivating online marketing and business courses.)"
+  },
+  {
+    "id": "361607ef-b97d-4895-b0af-5c4984ca6bf5",
+    "lat": 39.9499636,
+    "lng": -83.0005217,
+    "description": "Matic (builds trusted relationships between lenders and loan officers, borrowers, and their realtor referral partners.)"
+  },
+  {
+    "id": "5fbdbbb4-c89a-4081-8d16-5a2291e8ab55",
+    "lat": 42.2113375,
+    "lng": -83.7419715,
+    "description": "May Mobility (building a better autonomous vehicle system that imagines every move, every millisecond. To safely move the world to a greener, more accessible future. To transform cities and solve real-world problems.)"
+  },
+  {
+    "id": "40a0e973-df1b-4b9f-bfb6-f7a4aa67ba85",
+    "lat": 34.1494868,
+    "lng": -118.6458125,
+    "description": "Netki (bringing industry solutions to the bitcoin and cryptocurrency communities to enhance uptake in the mass market.)"
+  },
+  {
+    "id": "dc427fa5-5326-4f57-bf66-f4fc800370b5",
+    "lat": 37.7767211,
+    "lng": -122.4191774,
+    "description": "NuCypher (a security and encryption platform for distributed systems, including blockchain, big data, cloud, and internet of things.)"
+  },
+  {
+    "id": "3e91ece8-199d-406f-9ef6-6caa473926d5",
+    "lat": 37.7911776,
+    "lng": -122.401819,
+    "description": "O.School (is building a shame-free space by offering pleasure education through live streaming and moderated chat. O.school aims to help billions of people unlearn shame, heal from sexual trauma, develop skill sets to communicate what they want and don't want, discover new sexual desires in a LGBTQ-friendly and judgment-free space, and most of all — own their desires.)"
+  },
+  {
+    "id": "0602ff6c-1fb0-4545-8cc5-7e375352791b",
+    "lat": 37.7581213,
+    "lng": -122.4188189,
+    "description": "OnDeck (where top talent comes to accelerate their ideas and careers, surrounded by a world-class community.)"
+  },
+  {
+    "lat": 37.8018863,
+    "lng": -122.4013591,
+    "description": "Parade (operates an on-demand mobile marketplace for the long-haul trucking industry. Its technology pairs carriers looking for backhauls along their route letting to move loads for less; connects directly to a network of carriers allowing to book loads in less time; and gets notified when their freight falls behind schedule, helping to avoid storage fees and detention bills.)",
+    "id": "5f538c6b-61ba-4e9f-be82-8630df1bd604"
+  },
+  {
+    "id": "06920caf-238e-46ea-a007-5096aaef72ca",
+    "lat": 39.9614945,
+    "lng": -83.0021319,
+    "description": "Rapchat (a mobile app that helps aspiring and seasoned rappers worldwide to make and share music with each other. Rapchat combines the convenience of a mobile recording studio with the power of a social network.)"
+  },
+  {
+    "id": "e9c72ce0-3b5f-4e37-a61c-4d2374d2d540",
+    "lat": 37.76854362092148,
+    "lng": -117.68554687500001,
+    "description": "Silk (makes it easy for your cloud databases and applications to perform, share data, and run efficiently. Our fully-managed database service frees your DBA team for strategic efforts... while WE handle the database lifecycle for you!)"
+  },
+  {
+    "id": "84b469e0-f871-481d-8832-a3bc011f2b6d",
+    "lat": 37.8112082,
+    "lng": -122.267501,
+    "description": "Tari (is a new open source, digital assets focused blockchain protocol that is being architected as a merge-mined sidechain with Monero.)"
+  },
+  {
+    "lat": 37.784111,
+    "lng": -122.4063779,
+    "description": "Vela (Online marketplace aggregation and management)",
+    "id": "e06e8d87-3aef-4ab2-b634-becb0476c0f3"
+  },
+  {
+    "lat": 37.7899932,
+    "lng": -122.4008494,
+    "description": "Conveyor (is a data security company that simplifies vendor managment and complience certifications for cloud-based companies.)",
+    "id": "6d164f25-eb38-4b6d-a3fc-940e3d674875"
+  },
+  {
+    "lat": 32.0846782,
+    "lng": -110.9452163,
+    "description": "Worldview (an active, full-service commercial launch provider, World View’s technology is already opening up new realms of possibility for commercial customers around the world.World View’s disruptive Stratollite flight platform enables previously unthinkable applications at a fraction of the cost of existing technology; stratollites serve a variety of mission functions – from short duration research flights to long-duration flights over specific areas of interest – and serve a broad range of critical commercial needs and applications.)",
+    "id": "8bd7e6aa-8721-47ec-b171-038d7404530e"
+  },
+  {
+    "lat": 37.24939422410038,
+    "lng": -120.61190329492094,
+    "description": "Askmos (os is a privately-held operator of a financial technology company intended to help students save money on fees and scholarships. he company offers a debit card with no overdraft fees, late fees, or in-network ATM fees, and no minimum balance required, thereby enabling students to access all types of financial aid.)",
+    "id": "f4072ab7-ed5d-4fbe-a579-71b8d2e8ff22"
+  },
+  {
+    "id": "737107e8-f31b-40db-a33d-07a4e723d845",
+    "lat": 37.740905118619175,
+    "lng": -122.1687801810913,
+    "description": "BootUp (a global ecosystem working with Corporates, Startup, Universities and Govt helping them with Innovation and entrepreneurship through programs, workshops, mentorship and funding.)"
+  },
+  {
+    "lat": 34.097105,
+    "lng": -118.338572,
+    "description": "Buffalo Market (is the most efficient, transparent, and brand-friendly food \ndistributor on the market. We specialize in working with the fastest moving \nproducts and the largest retail chains across the United States).",
+    "id": "f3c02e1a-3b7d-4355-bb98-d6787d5de969"
+  },
+  {
+    "lat": 30.268971,
+    "lng": -97.7406286,
+    "description": "Candid.ly (Book an event photographer on Candidly.com and receive edited photos back within 24 hours after your event. We shoot all events except weddings.)",
+    "id": "c72b1608-5ffb-4800-afb0-d7da1e2c1106"
+  },
+  {
+    "lat": 37.787706,
+    "lng": -122.405877,
+    "description": "Cast Holding Company (Jewelry store.)",
+    "id": "8d7c2987-523c-4525-af52-3476bdf360e7"
+  },
+  {
+    "id": "a7428bd3-864f-4aa7-a7f3-2914f6d45119",
+    "lat": 19.4352166,
+    "lng": -99.1494108,
+    "description": "Cuenca, inc (a Mexican finance company that offers online banking services. The company's application provides savings by allowing interest rates and offers loan facilities, enabling users to securely deposit or borrow money digitally and pay it back according to their convenience.)"
+  },
+  {
+    "id": "4c9cab76-2e7c-4f5e-a2b4-d597cef02478",
+    "lat": 37.7888591,
+    "lng": -122.3981311,
+    "description": "Crate (The best way to save everything you love. Made smarter by AI.)"
+  },
+  {
+    "lat": 40.7187477,
+    "lng": -73.9896441,
+    "description": "Driver Technologies (is a hardware-free mobile app that allows users to video record their trip while receiving innovative computer-vision and telematics-based, audio alerts when they are at risk of hitting a car, motorcycle, pedestrian, or cyclist or if they are falling asleep or becoming distracted behind the wheel.)",
+    "id": "abad6f09-331f-4492-ab2e-9f496248d10f"
+  },
+  {
+    "lat": 43.0398955,
+    "lng": -76.1326052,
+    "description": "Ghostfruit (a hosted mining company created to further the adoption of bitcoin in the way that Satoshi envisioned it. By providing access to best-in-class products and domain expertise without the exorbitant cost and steep learning curve, we help our clients to become yeomen and produce more BTC per dollar than they'd be able to buy on the market.)",
+    "id": "0280821d-576a-4f22-a143-d1dafc9aa880"
+  },
+  {
+    "lat": 38.58157,
+    "lng": -121.4944,
+    "description": "Japa (is a leading smart parking company delivering smart data and advanced analytics to solve parking issues for customers.)",
+    "id": "1f7bd88c-37d5-4354-a8fe-3a483d145c08"
+  },
+  {
+    "lat": 45.41117,
+    "lng": -75.69812,
+    "description": "Keep (offers a checking account and credit card for Canadian SMBs. Businesses get better cashback rewards on card spend, lower domestic and international wire fees, currency conversion at a fair price, and increased credit limits for working capital needs.)",
+    "id": "03c834e2-fe83-4f5d-b62f-b1ee6860edb5"
+  },
+  {
+    "lat": 38.4480800148243,
+    "lng": -89.61247846484184,
+    "description": "Kept (offers a checking account and credit card for Canadian SMBs. Businesses get better cashback rewards on card spend, lower domestic and international wire fees, currency conversion at a fair price, and increased credit limits for working capital needs.)",
+    "id": "708f2a5d-0102-4af9-9e58-47bd8965299a"
+  },
+  {
+    "id": "532b6517-b879-4363-93f2-1a00ec9fac0b",
+    "lat": 37.7872955,
+    "lng": -122.3980376,
+    "description": "LYTE (is the live event industry's only demand-first end-to-end ticketing solution. Lyte enhances your ticketing, ensuring events are full and fans happy.)"
+  },
+  {
+    "lat": 37.8004035949707,
+    "lng": -122.4395523071289,
+    "description": "Made Renovations (is an architecture and planning company that specializes in home renovation.)",
+    "id": "2b011964-550f-4d23-91f1-f77c45f30299"
+  },
+  {
+    "lat": 34.166757,
+    "lng": -118.591356,
+    "description": "Mansa (We’re a VC backed streaming platform looking to do something different. We're building something bold - with a revolutionary flavor of content - that improves on all of the things people struggle with when it comes to their favorite streamer. Black culture, streaming for free.   Our team is a passionate, intelligent, humble & mission-driven group, with expertise from a variety of disciplines & industries. We are motivated & excited to shake up the entertainment ecosystem.)",
+    "id": "ebbb094e-4738-4729-8c6d-164a47a1fd14"
+  },
+  {
+    "lat": 39.1565449,
+    "lng": -75.5241876,
+    "description": "Moonpay (makes crypto simple. Buy with a card, sell in a snap, or make cross-chain swaps. It’s all there, in one easy-to-use account that puts you in control.)",
+    "id": "5c8a4f0c-c233-4637-89ae-8b17a7b7c982"
+  },
+  {
+    "lat": 40.706448,
+    "lng": -74.015117,
+    "description": "Octane11 (is a B2B marketing analytics platform that connects, enriches, and transforms siloed enterprise data to drive sales & marketing impact.)",
+    "id": "2bb3c879-84fe-44c5-a1df-9e2e9bf7729b"
+  },
+  {
+    "lat": 40.32270050048828,
+    "lng": -74.64427185058594,
+    "description": "Oxygen (Oxygen is a modern financial platform designed for the 21st-century economy, tailored to meet the unique needs of today's consumers and small businesses (freelancers, solopreneurs and modern SMBs).)",
+    "id": "075573d5-9fe1-4cca-924e-f17975804206"
+  },
+  {
+    "id": "c51c2fc7-b4a5-4a29-95c4-aa190d31533f",
+    "lat": 33.752326,
+    "lng": -84.324038,
+    "description": "PadSplit (is the largest coliving marketplace in the U.S. Our services are specifically tailored for hardworking people like teachers, security guards, bus drivers, and retail employees who are looking to build their futures.)"
+  },
+  {
+    "lat": 40.6990195,
+    "lng": -73.9937784,
+    "description": "Plumbr (is changing the way softwear is developed - and making softwear engineers more efficient in the process.) ",
+    "id": "9dd97c30-25cd-438f-9c53-42b069c76f37"
+  },
+  {
+    "lat": 40.7536221,
+    "lng": -73.9780733,
+    "description": "RAERI (recirculates usable landfill-bound products by connecting them with their next best use and seamlessly automating matching, distribution, and impact reporting.)",
+    "id": "78f4f064-b9f4-4896-812b-aa1f2190f56b"
+  },
+  {
+    "lat": 40.7206555,
+    "lng": -73.4401232,
+    "description": "Ruby Love (offers leak-proof period protection with no tampon required.)",
+    "id": "ef4e0ed1-58ae-4dc6-8a91-2233b311c025"
+  },
+  {
+    "lat": 28.51249122619629,
+    "lng": -80.79330444335938,
+    "description": "Space Perspective (Space Perspective is the world’s first and only carbon-neutral spaceflight experience company.)",
+    "id": "5579d0ce-adde-4bec-9732-52dbc963db67"
+  },
+  {
+    "lat": 40.8323884,
+    "lng": -73.3998343,
+    "description": "The Bucket List Studio (Operator of a travel vlog intended to offer glimpses of around the world).",
+    "id": "490ff96a-cce7-4ea4-99e3-4f044778eb6d"
+  },
+  {
+    "lat": 37.8004654,
+    "lng": -122.2747153,
+    "description": "The Sip (Find your flavor with The Sip. Sip something new and find what you love with a curated box of high-end sparkling wines - handpicked by us, delivered to you.)",
+    "id": "90c87269-da8b-40e6-966f-f2977bbc4c79"
+  },
+  {
+    "lat": 37.77493,
+    "lng": -122.41942,
+    "description": "TopKnot (Relatable personal growth for millennial women+)",
+    "id": "26de9d30-dc58-4b53-a57e-8a0d7fc03344"
+  },
+  {
+    "lat": 37.4228792,
+    "lng": -122.1376979,
+    "description": "Vestaboard (Vestaboard develops an internet-connected display intended to help design and provide information through wall-hanging screens.)",
+    "id": "1e92a0ae-f686-4c84-a2ea-e77e4bb29173"
+  },
+  {
+    "lat": 37.4832254,
+    "lng": -122.174391,
+    "description": "XOPS (We clean up the chaos with observability and runbook automation built for ITOps. Merged into a single modern platform, working together to help your team visualize, automate, and manage the complete employee lifecycle. )",
+    "id": "c5848645-0064-447e-ad45-0f36a416ca80"
+  }
+]
